@@ -1,1 +1,1 @@
-FROM eclipse-temurin:11.0.14.1_1-jre-alpine as java11
+FROM ubuntu:20.04@sha256:5747316366b8cc9e3021cd7286f42b2d6d81e3d743e2ab571f55bcd5df788cc8
