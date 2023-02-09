@@ -1,1 +1,1 @@
-FROM php:8.1@sha256:c5dcd377b75ca89f40a7b4284c05c58be4cd43d089f83af1333e56bde33d579f
+FROM public.ecr.aws/docker/library/ruby:2.7.6-buster@sha256:3ee0c8dba7051b2974ba5bead0f71db7f3f17e9302036182dfcbb401cff7ddd8 AS base
