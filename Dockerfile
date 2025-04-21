@@ -1,2 +1,2 @@
-FROM public.ecr.aws/docker/library/ruby:2.7.6-buster@sha256:3ee0c8dba7051b2974ba5bead0f71db7f3f17e9302036182dfcbb401cff7ddd8 AS base
+FROM public.ecr.aws/docker/library/ruby:3.2.2-buster@sha256:8401591f18ed4cb38e2ce73fe9f655e17c3386306851e2569f0102a05dc5aab2 AS base
 FROM ubuntu:focal@sha256:450e066588f42ebe1551f3b1a535034b6aa46cd936fe7f2c6b0d72997ec61dbd
